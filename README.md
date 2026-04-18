@@ -102,6 +102,10 @@ It’s beautiful chaos.
 
 ---
 
+![C.R.I.A.N.C.A. in action](assets/gifs/terminal.gif)
+
+---
+
 ## 🚨 Disclaimer
 
 This package is a **humor/experimental project**.
